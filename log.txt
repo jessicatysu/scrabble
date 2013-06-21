@@ -1,0 +1,44 @@
+Player: Player 1newTurn: True
+Tiles used: [<Game.Square instance at 0x1006f0710>, <Game.Square instance at 0x1006f0b48>, <Game.Square instance at 0x1006f0f80>, <Game.Square instance at 0x1006f53f8>, <Game.Square instance at 0x1006f5830>, <Game.Square instance at 0x1006f5c68>, <Game.Square instance at 0x1006f60e0>]
+Player: Player 1newTurn: False
+Tiles used: [<Game.Square instance at 0x1006f6518>, <Game.Square instance at 0x1006f6950>, <Game.Square instance at 0x1006f6d88>, <Game.Square instance at 0x1006f7200>, <Game.Square instance at 0x1006f7638>, <Game.Square instance at 0x1006f7a70>, <Game.Square instance at 0x1006f7ea8>]
+Player: Player 2newTurn: True
+Tiles used: [<Game.Square instance at 0x1006f9170>, <Game.Square instance at 0x1006f91b8>, <Game.Square instance at 0x1006f9200>, <Game.Square instance at 0x1006f9248>, <Game.Square instance at 0x1006f9290>, <Game.Square instance at 0x1006f92d8>, <Game.Square instance at 0x1006f9320>]
+Player: Player 1newTurn: True
+Tiles used: [<Game.Square instance at 0x1006f0b00>, <Game.Square instance at 0x1006f0f38>, <Game.Square instance at 0x1006f53b0>, <Game.Square instance at 0x1006f57e8>, <Game.Square instance at 0x1006f5c20>, <Game.Square instance at 0x1006f6098>, <Game.Square instance at 0x1006f64d0>]
+Player: Player 2newTurn: True
+Tiles used: [<Game.Square instance at 0x1006f0ab8>, <Game.Square instance at 0x1006f0ef0>, <Game.Square instance at 0x1006f5368>, <Game.Square instance at 0x1006f57a0>, <Game.Square instance at 0x1006f5bd8>, <Game.Square instance at 0x1006f6050>, <Game.Square instance at 0x1006f6488>]
+Player: Player 1newTurn: True
+Tiles used: [<Game.Square instance at 0x1006f6560>, <Game.Square instance at 0x1006f6998>, <Game.Square instance at 0x1006f6dd0>, <Game.Square instance at 0x1006f7248>, <Game.Square instance at 0x1006f7680>, <Game.Square instance at 0x1006f7ab8>, <Game.Square instance at 0x1006f7ef0>]
+Player: Player 2newTurn: True
+Tiles used: [<Game.Square instance at 0x1006f65a8>, <Game.Square instance at 0x1006f69e0>, <Game.Square instance at 0x1006f6e18>, <Game.Square instance at 0x1006f7290>, <Game.Square instance at 0x1006f76c8>, <Game.Square instance at 0x1006f7b00>, <Game.Square instance at 0x1006f7f38>]
+Player: Player 1newTurn: True
+Tiles used: [<Game.Square instance at 0x1006f65f0>, <Game.Square instance at 0x1006f6a28>, <Game.Square instance at 0x1006f6e60>, <Game.Square instance at 0x1006f72d8>, <Game.Square instance at 0x1006f7710>, <Game.Square instance at 0x1006f7b48>, <Game.Square instance at 0x1006f7f80>]
+Player: Player 2newTurn: True
+Tiles used: [<Game.Square instance at 0x1006f6638>, <Game.Square instance at 0x1006f6a70>, <Game.Square instance at 0x1006f6ea8>, <Game.Square instance at 0x1006f7320>, <Game.Square instance at 0x1006f7758>, <Game.Square instance at 0x1006f7b90>, <Game.Square instance at 0x1006f7fc8>]
+Player: Player 1newTurn: True
+Tiles used: [<Game.Square instance at 0x1006f6680>, <Game.Square instance at 0x1006f6ab8>, <Game.Square instance at 0x1006f6ef0>, <Game.Square instance at 0x1006f7368>, <Game.Square instance at 0x1006f77a0>, <Game.Square instance at 0x1006f7bd8>, <Game.Square instance at 0x1006f9050>]
+Player: Player 2newTurn: True
+Tiles used: [<Game.Square instance at 0x1006f66c8>, <Game.Square instance at 0x1006f6b00>, <Game.Square instance at 0x1006f6f38>, <Game.Square instance at 0x1006f73b0>, <Game.Square instance at 0x1006f77e8>, <Game.Square instance at 0x1006f7c20>, <Game.Square instance at 0x1006f9098>]
+Player: Player 1newTurn: True
+Tiles used: [<Game.Square instance at 0x1006f6710>, <Game.Square instance at 0x1006f6b48>, <Game.Square instance at 0x1006f6f80>, <Game.Square instance at 0x1006f73f8>, <Game.Square instance at 0x1006f7830>, <Game.Square instance at 0x1006f7c68>, <Game.Square instance at 0x1006f90e0>]
+Player: Player 2newTurn: True
+Tiles used: [<Game.Square instance at 0x1006f0710>, <Game.Square instance at 0x1006f0b48>, <Game.Square instance at 0x1006f0f80>, <Game.Square instance at 0x1006f53f8>, <Game.Square instance at 0x1006f5830>, <Game.Square instance at 0x1006f5c68>, <Game.Square instance at 0x1006f60e0>]
+Player: Player 1newTurn: True
+Tiles used: [<Game.Square instance at 0x1006f0758>, <Game.Square instance at 0x1006f0b90>, <Game.Square instance at 0x1006f0fc8>, <Game.Square instance at 0x1006f5440>, <Game.Square instance at 0x1006f5878>, <Game.Square instance at 0x1006f5cb0>, <Game.Square instance at 0x1006f6128>]
+Player: Player 2newTurn: True
+Tiles used: [<Game.Square instance at 0x1006f07a0>, <Game.Square instance at 0x1006f0bd8>, <Game.Square instance at 0x1006f5050>, <Game.Square instance at 0x1006f5488>, <Game.Square instance at 0x1006f58c0>, <Game.Square instance at 0x1006f5cf8>, <Game.Square instance at 0x1006f6170>]
+Player: Player 1newTurn: True
+Tiles used: [<Game.Square instance at 0x1006f5830>, <Game.Square instance at 0x1006f5c68>, <Game.Square instance at 0x1006f60e0>, <Game.Square instance at 0x1006f6518>, <Game.Square instance at 0x1006f6950>]
+Player: Player 2newTurn: True
+Tiles used: [<Game.Square instance at 0x1006f6128>, <Game.Square instance at 0x1006f6560>, <Game.Square instance at 0x1006f6998>, <Game.Square instance at 0x1006f6dd0>, <Game.Square instance at 0x1006f7248>]
+Player: Player 1newTurn: True
+Tiles used: [<Game.Square instance at 0x1006f69e0>, <Game.Square instance at 0x1006f6e18>, <Game.Square instance at 0x1006f7290>, <Game.Square instance at 0x1006f76c8>, <Game.Square instance at 0x1006f7b00>, <Game.Square instance at 0x1006f7f38>, <Game.Square instance at 0x1006f83b0>]
+Player: Player 2newTurn: True
+Tiles used: [<Game.Square instance at 0x1006f7710>, <Game.Square instance at 0x1006f7b48>]
+Player: 1newTurn: True
+Tiles used: [<Game.Square instance at 0x10412e680>, <Game.Square instance at 0x10412eef0>, <Game.Square instance at 0x10412f7a0>]
+Player: 2newTurn: True
+Tiles used: [<Game.Square instance at 0x10412f710>, <Game.Square instance at 0x10412f830>, <Game.Square instance at 0x10412f8c0>]
+Player: 1newTurn: True
+Tiles used: [<Game.Square instance at 0x1041300e0>, <Game.Square instance at 0x104130170>]

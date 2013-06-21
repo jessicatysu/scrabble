@@ -1,0 +1,81 @@
+Classes:
+
+Game
+- game.bag (dictionary)
+- game.players (deque)
+- game.plays (stack)
+- game.curPlay
+- game.curPlayer
+- game.turnNumber
+- game.winner
+- game.display
+- game.buttons
+- game.startGame()
+- game.endGame()
+- game.goBackwards()
+
+Player
+- player.name
+- player.score
+- player.rack
+- player.exchanged
+- player.takeTurn()
+
+Turn order - use a deque instead of player.index
+
+Board
+- board.squares
+- board.onBoard()
+- board.changeLetter(x, y, letter)
+
+squares - a dictionary
+
+Square
+- square.bonus
+- square.color
+- square.letter
+- square.x
+- square.y
+- square.isOccupied()
+- square.connectedToBoard()
+
+Play
+- play.squares
+- play.words
+- play.player
+- play.score
+- play.turnNumber
+- play.findWordSquares(game)
+- play.getWords()
+- play.scorePlay()
+- play.isLegal()
+- play.isValid() # Check to see if play is challengable
+
+verifyWord()
+
+Display
+- display.stdscr
+- display.getch()
+- display.clearMsg()
+- display.printMsg() # use to redraw the exchanged tiles
+- display.redrawRack()
+- display.shuffleRack()
+- display.redrawScore()
+- display.redrawSquare()
+#- display.addToBoard(tile) # Add tile to board
+#- display.removeFromBoard(square)
+- display.moveCursor()
+- display.drawScreen()
+- display.drawBoard()
+- display.drawButtons()
+- display.drawStatus() # score, turn
+- display.drawBars()
+- display.close()
+
+Button
+- button.name
+- button.xstart
+- button.ystart
+- button.length
+- button.click()
+- button.onButton()

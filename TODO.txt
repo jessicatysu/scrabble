@@ -1,0 +1,4 @@
+Todo:
+- Support blank tiles
+- "r" for recall
+- Display score
